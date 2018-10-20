@@ -11,6 +11,7 @@ Title: Godolphin, Complete
 Author: Edward Bulwer-Lytton
 
 Release Date: March 16, 2009 [EBook #7756]
+Last Updated: June 25, 2016
 
 Language: English
 
@@ -214,7 +215,7 @@ lineament;--these still defied disease, or rather borrowed from its very
 ghastliness a more impressive majesty. Beside the bed was a table
 spread with books of a motley character. Here an abstruse system of
 Calculations on Finance; there a volume of wild Bacchanalian Songs; here
-the lofty aspirations of Plato's Phoedon; and there the last speech
+the lofty aspirations of Plato's Phaedon; and there the last speech
 of some County Paris on a Malt Tax: old newspapers and dusty pamphlets
 completed the intellectual litter; and above them rose, mournfully
 enough, the tall, spectral form of a half-emptied phial, and a
@@ -276,7 +277,7 @@ cannot assist you: but you know my embarrassed circumstances. By the
 by, I saw his Royal Highness yesterday. 'Poor Vernon!' said he; 'would
 a hundred pounds do him any good?' So we don't forget you, mon cher.
 Ah! how we missed you at the Beefsteak! Never shall we know again so
-glorious a bona vivant. You would laugh to hear L---- attempting to echo
+glorious a bon vivant. You would laugh to hear L---- attempting to echo
 your old jokes. But time presses: I must be off to the House. You know
 what a motion it is! Would to Heaven you were to bring it on instead
 of that ass T----. Adieu! I wish I could come and see you; but it would
@@ -317,12 +318,12 @@ care, and shame, and a broken heart, and an early death? But listen,
 Constance! Are you listening?--attentively?--Well! note now, I am a just
 man. I do not blame my noble friends, my gentle patrons, for this. No:
 if I were forgetful of my interests, if I preferred their pleasure to my
-happiness and honour, that was any crime, and I deserve the punishment!
+happiness and honour, that was my crime, and I deserve the punishment!
 But, look you,--time went by, and my constitution was broken; debts came
 upon me; I could not pay; men mistrusted my word; my name in the country
 fell: With my health, my genius deserted me; I was no longer useful
 to my party; I lost my seat in parliament; and when I was on a
-sick-bed--you remember it, Constancy--the bailiffs came, and tore me
+sick-bed--you remember it, Constance--the bailiffs came, and tore me
 away for a paltry debt--the value of one of those suppers the Prince
 used to beg me to give him. From that time my familiars forsook me!--not
 a visit, not a kind act, not a service for him whose day of work was
@@ -386,7 +387,7 @@ CHAPTER II.
 
 REMARK ON THE TENURE OF LIFE.--THE COFFINS OF GREAT MEN SELDOM
 NEGLECTED.--CONSTANCE TAKES REFUGE WITH LADY ERPINGHAM.--THE HEROINE'S
-ACCOMPLISHMENTS AND CHARACTER.-THE MANOEUVRING TEMPERAMENT.
+ACCOMPLISHMENTS AND CHARACTER.--THE MANOEUVRING TEMPERAMENT.
 
 What a strange life this is! what puppets we are! How terrible an enigma
 is Fate! I never set my foot without my door, but what the fearful
@@ -482,7 +483,7 @@ not without some apparent excuse for desertion--they doubted his
 _sincerity_. It is true that it was without actual cause. No modern
 politician had ever been more consistent. He had refused bribes, though
 poor; and place, though ambitious. But he was essentially--here is the
-secret--essentially an intriguant. Bred in the old school of policy, he
+secret--essentially an _intriguant_. Bred in the old school of policy, he
 thought that manoeuvring was wisdom, and duplicity the art of governing.
 Like Lysander,(1) he loved plotting, yet neglected self-interest. There
 was not a man less open, or more honest. This character, so rare in
@@ -2695,7 +2696,7 @@ that it may be true."
 "To wait till the Duchess of Winstoun speaks intelligibly would be a
 waste of her time and my own," said the haughty Constance, with the
 rudeness in which she then delighted, and for which she has since become
-known. Rut the duchess was not to be offended until she had completed
+known. But the duchess was not to be offended until she had completed
 her manoeuvre.
 
 "Well, now," said she, turning to Lord Erpingham, "I appeal to you;
@@ -2796,7 +2797,7 @@ nothing that has lost its first freshness, can be dedicated to one so
 beautiful and young."
 
 The fresh bottle was opened, and Godolphin bowed over his glass to Lord
-Belvoir's sister-a Beauty and a Blue. Lady Delmour admired Godolphin,
+Belvoir's sister--a Beauty and a Blue. Lady Delmour admired Godolphin,
 and she was flattered by a compliment that no one wholly educated in
 England would have had the gallant courage to utter across a crowded
 table.
@@ -3505,7 +3506,7 @@ positively jeer at him!"
 
 "And yet," said Saville, "how few men of letters perceive a truth so
 evident to us, so hackneyed even in the conversations of society! For a
-little reputation at a dinner table, for a coaxing nobe from some titled
+little reputation at a dinner table, for a coaxing note from some titled
 demirep affecting the De Stael, they forget not only to be glorious
 but even to be respectable. And this, too, not only for so petty a
 gratification, but for one that rarely lasts above a London season. We
@@ -3535,7 +3536,7 @@ Here the door opened, and a Mr. Glosson was announced. There entered a
 little, smirking, neat-dressed man, prim as a lawyer or a house-agent.
 
 "Ah, Glosson, is that you?" said Saville, with something like animation:
-"sit down, my good sir,--sit down. Well! well! (rubbing his bands); what
+"sit down, my good sir,--sit down. Well! well! (rubbing his hands); what
 news? what news?"
 
 "Why, Mr. Saville, I think we may get the land from old ----. He has
@@ -3711,7 +3712,7 @@ little nature in them, that they don't know what is natural!"
 Thus Fanny ran on, in no very connected manner; stringing together those
 remarks which, unless I am mistaken, show how much better an uneducated,
 clever girl, whose very nature is a quick perception of art, can play
-the critic, then the pedants who assume the office.
+the critic, than the pedants who assume the office.
 
 But it was only for the moment that the heavy heart of Godolphin could
 forget its load. It was in vain that he sought to be amused while yet
@@ -3806,7 +3807,7 @@ of fifty-six, punching young minors in the side, and saying tremulously,
 
 "He hires pages to come to him in the Park with three-cornered notes,"
 said Fanny, "he opens each with affected nonchalance; looks full at the
-bearer; and cries aloud-'Tell your mistress I cannot refuse her:'--then
+bearer; and cries aloud--'Tell your mistress I cannot refuse her:'--then
 canters off, with the air of a man persecuted to death!"
 
 "But did you see what an immense pair of whiskers Chester has mounted?"
@@ -3986,7 +3987,7 @@ solitary mind!
 
 CHAPTER XXII.
 
-THE BRIDE ALONE.--A DIALOGUE POLITICAL AND MATRIMONIAL.--CONSTANCE
+THE BRIDE ALONE.--A DIALOGUE POLITICAL AND MATRIMONIAL.--CONSTANCE'S
 GENIUS FOR DIPLOMACY.--THE CHARACTER OF HER ASSEMBLIES.--HER CONQUEST
 OVER LADY DELVILLE.
 
@@ -5706,7 +5707,7 @@ time, or by what last contest of nature, was not known.
 
 CHAPTER XXXI.
 
-A SCENE.--LUCILLA'S STRANGE CONDUCT-GODOLPHIN PASSES THROUGH A SEVERE
+A SCENE.--LUCILLA'S STRANGE CONDUCT--GODOLPHIN PASSES THROUGH A SEVERE
 ORDEAL.--EGERIA'S GROTTO, AND WHAT THERE HAPPENS.
 
 Let us pass over Godolphin's most painful task. What Lucilla's feelings
@@ -5840,7 +5841,7 @@ the fact?--an admirer, a lover."
 "Now _you_ insult me!" cried Lucilla, angrily.
 
 "I thank you for your anger; I accept it as a contradiction," said
-Godolphin. "But listen yet a while, and for give frankness. If there
+Godolphin. "But listen yet a while, and forgive frankness. If there
 be any one, among the throng of Italian youths, whom you have seen,
 and could be happy with; one who loves you and whom you do not
 hate;--remember that I am your father's friend; that I am rich; that I
@@ -6128,8 +6129,8 @@ it can be nothing compared to the agony of thy absence!"
 She looked up timidly as she spoke, and saw, with a sort of terror, that
 his face worked with emotions which seemed to choke his answer. "If,"
 she cried passionately, "if I have said what pains thee--if I have asked
-what would give dishonour, as thou callest it, or harm, to thyself, for
-give me--I knew it not--and leave me. But if it were not of thyself that
+what would give dishonour, as thou callest it, or harm, to thyself,
+forgive me--I knew it not--and leave me. But if it were not of thyself that
 thou didst speak, believe that thou hast done me but a cruel mercy. Let
 me go with thee, I implore! I have no friend here: no one loves me. I
 hate the faces I gaze upon; I loathe the voices I hear. And, were it for
@@ -6220,7 +6221,7 @@ renounced the bliss of possessing this singular and beautiful being; for
 what?--a scruple which she cannot even comprehend, and at which, in
 her friendless and forlorn state, the most starched of her dissolute
 countrywomen would smile as a ridiculous punctilio. And, in truth, had
-I fled hence with her, should I not have made her through out life
+I fled hence with her, should I not have made her throughout life
 happier--far happier, than she will be now? Nor would she, in that
 happiness, have felt, like an English girl, any pang of shame. _Here,_
 the tie would have never been regarded as a degradation; nor does she,
@@ -7719,7 +7720,7 @@ said he, "yonder among the olive groves. There
 were the summer retreats of Rome's brightest and most enduring spirits.
 There was the retirement of Horace and Mecaenas: there Brutus forgot his
 harsher genius; and there the inscrutable and profound Augustus indulged
-in those graceful relaxations-those sacrifices to wit, and poetry, and
+in those graceful relaxations--those sacrifices to wit, and poetry, and
 wisdom--which have made us do so unwilling and reserved a justice to the
 crimes of his earlier and the hypocrisy of his later years. Here, again,
 is a reproach to your ambition," added Godolphin, smiling; "his ambition
@@ -7792,7 +7793,7 @@ lived too much, had, nevertheless, seemed rather to enlarge and animate
 the natural nobleness of her mind, than to fritter it down to the
 standard of its common votaries. When she spoke he delighted in, even
 while he dissented from, the high and bold views which she conceived. He
-loved her indignation of all that was mean and low-her passion for all
+loved her indignation of all that was mean and low--her passion for all
 that was daring and exalted. Never was he cast down from the height
 of the imaginative part of his love by hearing from her lips one petty
 passion or one sordid desire; much about her was erroneous, but all was
@@ -7882,7 +7883,7 @@ heavens much more than upon the earth; for the trees, and the waters
 and the hills around, thou canst not behold; but the same heaven which I
 survey is above thee also; and this, our common companion, seems in some
 measure to unite us. And I have thought over my father's lore, and have
-tried to learn it; Day, thou mayest smile, but it is thy absence that
+tried to learn it; nay, thou mayest smile, but it is thy absence that
 has taught me superstition.
 
 "But tell me, dearest, kindest, tell me when--oh, when wilt then return?
@@ -8063,7 +8064,7 @@ spirit of the cataract.
 And there--amidst this awful and tremendous eternity of strife and
 power--stood two beings whose momentary existence was filled with the
 master-passion of humanity. And that passion was yet audible there:
-the nature without coal; I not subdue that within. Even amidst the icy
+the nature without could not subdue that within. Even amidst the icy
 showers of spray that fell around, and would have frozen the veins of
 others, Godolphin felt the burning at his heart. Constance was indeed
 utterly lost in a whirl and chaos of awe and admiration, which deprived
@@ -8493,7 +8494,7 @@ LOVE STRONG AS DEATH, AND NOT LESS BITTER.
 When Godolphin returned home the door was open, as Lucilla had left
 it, and he went at once into his apartment. He hastened to the table on
 which he had left, with the negligence arising from the emotions of the
-moment, the letter to Constance,--the paper on which Lucilla bad written
+moment, the letter to Constance,--the paper on which Lucilla had written
 her name alone met his eye. While yet stunned and amazed, his servant
 and Lucilla's entered: in a few moments he had learned all they had
 to tell him; the rest Lucilla's handwriting did indeed sufficiently
@@ -8659,7 +8660,7 @@ strange to Constance must seem his conduct, after the scene of the
 avowal in the Siren's Cave: no excuse on the one hand, no explanation on
 the other; and now what explanation should he give? There was no longer
 a necessity, for it was no longer honesty and justice to fly from the
-bliss that might await him--the love of his early--worshipped Constance.
+bliss that might await him--the love of his early-worshipped Constance.
 But could he, with a heart yet bleeding from the violent rupture of one
 tie, form a new one? Agitated, restless, self-reproachful, bewildered,
 and uncertain, he could not bear thoughts that demanded answers to a
@@ -8671,7 +8672,7 @@ involuntarily.
 
 "Ill!--ha! ha! I never was better; but I have just returned from a
 long journey: I have not touched food nor felt sleep for three days
-and nights! 1-ha, ha! no, I'm not ill;" and, with an eye bright with
+and nights! I--ha, ha! no, I'm not ill;" and, with an eye bright with
 gathering delirium, Godolphin glared around him.
 
 Lady Charlotte drew back and shuddered; Godolphin felt a cool, soft hand
@@ -8796,7 +8797,7 @@ must necessarily be stirred despite his creed; and if she sometimes
 doubted, sometimes despaired of this, she felt at least that his
 presence had become dearer to her than all things. Nay, she checked her
 own enthusiasm, her own worship of fame, since they clashed with his
-opinions; so marvellously and insensibly bad Love bowed down the proud
+opinions; so marvellously and insensibly had Love bowed down the proud
 energies and the lofty soul of the daughter of John Vernon.
 
 
@@ -8869,7 +8870,7 @@ thought! But there is one thing that distinguishes the conversation of
 young married people from that of lovers on a less sacred footing--they
 talk of the future! Other lovers talk rather of the past; an uncertainty
 pervades their hereafter; they feel they recoil from, it; they are
-sensible that their plans are not one and indivisible.' But married
+sensible that their plans are not one and indivisible. But married
 people are always laying out the "to come;" always talking over their
 plans: this often takes something away from the tenderness of affection,
 but how much it adds to its enjoyment!
@@ -8908,7 +8909,7 @@ the sole end and aim of life?"
 
 "Assuredly."
 
-"And action, enterprise-are these as nothing?"
+"And action, enterprise--are these as nothing?"
 
 Godolphin was silent, but began absently to throw pebbles into the
 water. The action reminded Constance of the first time she had ever seen
@@ -8982,7 +8983,7 @@ PRODUCE UNION OF MINDS.
 Weeks passed on, and, apparently, Godolphin had reconciled himself to
 the disappearance and precarious destiny of Lucilla. It was not in his
 calm and brooding nature to show much of emotion; but there was often,
-even. in the presence of Constance, a cloud on his brow, and the fits
+even in the presence of Constance, a cloud on his brow, and the fits
 of abstraction to which he had always been accustomed grew upon him more
 frequently than ever. Constance had been inured for years to the most
 assiduous, the most devoted attentions; and now, living much alone with
@@ -9036,7 +9037,7 @@ and arid destinies we fulfil. Look round, Constance, in every leaf of
 her gorgeous book, how glowingly is written the one sentence, 'Love and
 be happy!' You answer not; to these thoughts you are cold."
 
-"They breathe too much of the Epicurean and his roseleaves for me,"
+"They breathe too much of the Epicurean and his rose-leaves for me,"
 answered Constance, smilingly. "I love better that stern old tower,
 telling of glorious strife and great deeds, than all the softer
 landscape, on which the present debasement of the south seems written."
@@ -9446,7 +9447,7 @@ didactics of Radclyffe or the declamations of Constance.
 CHAPTER LI.
 
 GODOLPHIN'S COURSE OF LIFE.--INFLUENCE OF OPINION AND OF RIDICULE ON THE
-MINDS OF PRIVILEGED ORDERS.--LADY EHPINGITAM'S FRIENDSHIP WITH GEORGE
+MINDS OF PRIVILEGED ORDERS.--LADY ERPINGITAM'S FRIENDSHIP WITH GEORGE
 THE FOURTH.--HIS MANNER OF LIVING.
 
 The course of life which Godolphin now led, was exactly that which it
@@ -9776,7 +9777,7 @@ toasts--as being a useless delay."
 love. Your old topers are all for coming at once, to the bottle, and
 your old lovers for ever mumbling the toast."
 
-"See what you have' brought on yourself, Saville, by affecting a joke
+"See what you have brought on yourself, Saville, by affecting a joke
 upon me," said Godolphin. "Come, let us make it up: we fell out with the
 toast--let us be reconciled by the glass.--Champagne?"
 
@@ -9915,14 +9916,14 @@ and more powerful as one of the ornaments of a great political party.
 Few women in England ever mixed more actively in politics than Lady
 Erpingham, or with more remarkable ability. Her friends were out of
 office, it is true; but she saw the time approaching rapidly when their
-opinions must come into power. She bad begun to love, for itself, the
+opinions must come into power. She had begun to love, for itself, the
 scheming of political ambition, and in any country but England she
 would have been a conspirator, and in old times might have risen to be
 a queen; but as it was, she was only a proud, discontented woman. She
 knew, too, that it was all she could be--all that her sex allowed her
 to be--yet did she not the less straggle and toil on. The fate of her
 father still haunted her; her promise and his death-bed still rose oft
-and solemnly before leer; the humiliations she had known in her
+and solemnly before her; the humiliations she had known in her
 early condition--the homage that had attended her later career--still
 cherished in her haughty soul indignation at the faction he had
 execrated, and little less of the mighty class which that faction
@@ -10019,7 +10020,7 @@ multitude."
 "But," said Mr. Benson, a very powerful member of the Lower House, "true
 politicians must conform to circumstances. Canning may not be all we
 wish, but still he ought to be supported. I confess that I shall be
-generous I care not for office, I care not for power; but Canning is
+generous: I care not for office, I care not for power; but Canning is
 surrounded with enemies, who are enemies also to the people: for that
 reason I shall support him."
 
@@ -10158,7 +10159,7 @@ much on the surface of the actual world, her habits of thought were
 too essentially worldly, to be converted, while she was attracted, by
 doctrines so startling in their ultimate conclusions. She turned once
 more to herself, and waited, in a sad and thoughtful stillness, the
-progress of things-convinced only of the vanity of them all.
+progress of things--convinced only of the vanity of them all.
 
 
 
@@ -10315,7 +10316,7 @@ Europe. Her way of life was lonely, her habits eccentric; she sought no
 companionship; she was beautiful, but not of this earth's beauty; men
 admired, but courted not; she, at least, lived apart from the reach of
 human passions. In fact, the strange Liehbur, for such was the name the
-prophetness was known by (and she assumed before it the French title
+prophetess was known by (and she assumed before it the French title
 of Madame), was not an impostor, but a fanatic: the chords of the brain
 were touched, and the sound they gave back was erring and imperfect.
 She was mad, but with a certain method in her madness; a cold, and
@@ -10875,7 +10876,7 @@ most ignorant and lowly."
 "Yes; but they consult only what imposes on their credulity, without
 demanding stern and severe sacrifice of time and enjoyment, as I do. The
 daring, the resolute, the scheming with their souls intent upon great
-objects and high dreams-those are the men who despise the charms of the
+objects and high dreams--those are the men who despise the charms of the
 moment, who are covetous of piercing the far future, who know how much
 of their hitherward career has been brightened, not by genius or nature,
 but some strange confluence of events, some mysterious agency of fate.
@@ -10883,7 +10884,7 @@ The great are always fortunate, and therefore mostly seekers into the
 decrees of fortune."
 
 So great is the influence which enthusiasm, right or wrong, always
-exercises over us, that even the hard and acute Radclyffe-who had
+exercises over us, that even the hard and acute Radclyffe--who had
 entered the room with the most profound contempt for the pretensions of
 the soothsayer, and partly from a wish to find materials for ridiculing
 a folly of the day, partly, it may be from the desire to examine which
@@ -10968,7 +10969,7 @@ pressed his cheek to her bosom.
 "I have a presentiment," said he, "that something dreadful will happen
 shortly. I feel as if I were near some great crisis of my life; and as
 if I were about to step from the bright and palpable world into regions
-of cloud and dark ness. Constance, strange misgivings as to my choice
+of cloud and darkness. Constance, strange misgivings as to my choice
 in my past life haunt and perplex me. I have sought only the present; I
 have adjured all toil, all ambition, and laughed at the future; my hand
 has plucked the rose-leaves, and now they lie withered in the grasp.
@@ -11102,7 +11103,7 @@ sunken, and solitary state. Go!"
 
 "Dear Lucilla!" said Constance, kindly, and striving once more to take
 her hand, "do not cast me away from you. I have long sympathised with
-your generous although erring heart--your bard and bitter misfortunes.
+your generous although erring heart--your hard and bitter misfortunes.
 Look on me only as your friend--nay, your sister, if you will. Let me
 persuade you to leave this strange and desultory life; choose your own
 home: I am rich to overflowing; all you can desire shall be at your
@@ -11188,7 +11189,7 @@ in her present vein, "but in the country, Lucilla, in some quiet and
 sheltered nook, you might indulge these visions without the cares and
 uncertainty that must now perplex you; without leading this dangerous
 and roving life, which must at times expose you to insult, to annoyance,
-and discontent you with, yourself."
+and discontent you with yourself."
 
 "You are mistaken, lady," said the astrologer, proudly; "none know me
 who do not fear. I am powerful, and I hug my power--it comforts me:
@@ -11234,7 +11235,7 @@ own--go to him; tell him--no, tell him not of me. He must not seek me;
 we must not held parley together: for oh, lady" (and Lucilla's face
 became settled into an expression so sad, so unearthly sad, that no word
 can paint, no heart conceive, its utter and solemn sorrow), "when we two
-meet again to commune,--to converse,--when once more I touch that band,
+meet again to commune,--to converse,--when once more I touch that hand,
 when once more I feel that beloved, that balmy breath;--my last hour is
 at hand--and danger--imminent, dark, and deadly danger, clings fast to
 him!"
@@ -11252,7 +11253,7 @@ were ranged many stars, and the planets, set in due order. These were
 lighted from within by some chemical process, and burnt with a clear and
 lustrous, but silver light. And Constance observed that the dial turned
 round, and that the stars turned with it, each in a separate motion; and
-in the midst of the dial were the bands as of a clock-that moved, but so
+in the midst of the dial were the hands as of a clock-that moved, but so
 slowly, that the most patient gaze alone could observe the motion.
 
 While the wondering Constance regarded this singular device, Lucilla
@@ -11278,7 +11279,7 @@ husband that you have seen me. He will know soon, too soon, of my
 existence: fain would I spare him that pang and," growing pale as she
 spoke, "that peril; but Fate forbids it. What is writ, is writ: and who
 shall blot God's sentence from the stars, which are His book? Farewell!
-high thoughts are graved upon your brow may they bless you; or, where
+high thoughts are graved upon your brow: may they bless you; or, where
 they fail to bless, may they console and support. Farewell! I have not
 yet forgotten to be grateful, and I still dare to pray."
 
@@ -11399,7 +11400,7 @@ for refuge, Reform still assailed him; and by degrees the universal
 feeling, that was at first ridiculed, was at last, although reluctantly,
 admitted by his mind.
 
-"Why," said he, one clay, musingly, to Radclyffe, whom he met in the old
+"Why," said he, one day, musingly, to Radclyffe, whom he met in the old
 Green Park,--(for since the conversation recorded between Radclyffe and
 Constance the former came little to Erpingham House), "why should I not
 try a yet untried experiment? Why should I not live like others in their
@@ -11453,8 +11454,8 @@ his scornful laugh ring forth from the depths of his forgotten grave.
 London emptied itself at once. England was one election. Godolphin
 remained almost alone. For the first time a sense of littleness crept
 over him; a feeling of insignificance, which wounded and galled his
-vain nature. In these beat struggles he was nothing. The admired--the
-cultivated--spirituel--the splendid Godolphin, sank below the commonest
+vain nature. In these great struggles he was nothing. The admired--the
+cultivated--_spirituel_--the splendid Godolphin, sank below the commonest
 adventurer, the coarsest brawler--yea, the humblest freeman, who felt
 his stake in the state, joined the canvass, swelled the cry, and helped
 in the mighty battle between old things and new, which was so resolutely
@@ -11529,7 +11530,7 @@ philosophy, but a species of parricide. But to think of the daily and
 hourly pain I should occasion to you, my beloved and ardent Constance,
 by shocking all your opinions, counteracting all your schemes, working
 against objects which your father's fate and your early associations
-have so singularly made duties in your eyes-to do all this is a
+have so singularly made duties in your eyes--to do all this is a
 patriotism beyond me. Let us glide out of this whirlpool, and hoist sail
 for some nook in the country where we can hear gentler sounds than the
 roar of the democracy."
@@ -11699,7 +11700,7 @@ Constance Vernon, very prudently marrying Lady Erpingham. You are at
 the head and front of society; you have excellent taste, and spend your
 wealth properly. All this must make your conscience clear--a wonderful
 consolation! Always keep a sound conscience; it is a great blessing on
-one's death-bed--it is a great blessing tome in this hour, for I have
+one's death-bed--it is a great blessing to me in this hour, for I have
 played my part decently--eh?--I have enjoyed life, as much as so dull a
 possession can be enjoyed; I have loved, gamed, drunk, but I have never
 lost my character as a gentleman: thank Heaven, I have no remorse of
@@ -12385,7 +12386,7 @@ of heart, and I knew that you and I must meet once more, and that that
 meeting would be in this hour; and I counted, minute by minute, with a
 savage gladness, the days that were to bring on this interview and my
 death!" Then raising her voice into a wild shriek--"Beware,
-beware, Percy!-the rush of waters is on my ear-the splash, the
+beware, Percy!--the rush of waters is on my ear-the splash, the
 gurgle!--Beware!--your last hour, also; is at hand!"
 
 From the moment in which she uttered these words, Lucilla relapsed into
@@ -12504,7 +12505,7 @@ shadow. Oh, God! that for such a being such a destiny was reserved! and
 in the prime of life, just when his mind had awakened to a sense of its
 own powers and their legitimate objects! What a fatal system of things,
 that could for thirty-seven years have led away, by the pursuits and
-dissipations of a life suited but to the beings be despised, a genius of
+dissipations of a life suited but to the beings he despised, a genius of
 such an order, a heart of such tender emotions!(1) But on this subject I
 cannot, cannot write. I must lay down the pen: to-morrow I will try and
 force myself to resume it.
@@ -12514,7 +12515,7 @@ remodel that character, and atone to the memory of one, whom none ever
 saw but to admire, or knew but to love.
 
 "Of me,--of me, the vain, the scheming, the proud, the unfeminine
-cherishes of bitter thoughts, of stern designs,--of me, on the other
+cherisher of bitter thoughts, of stern designs,--of me, on the other
 hand, how flattering is the picture you have drawn! In that flattery
 is my sure disguise; therefore, I will not ask you to shade it into the
 poor and unlovely truth. But while, with agony and shame, I feel that
